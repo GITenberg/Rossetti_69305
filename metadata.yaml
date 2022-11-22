@@ -1,11 +1,16 @@
 _repo: Rossetti_69305
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69305-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Marillier, H. C.
     gutenberg_agent_id: '55208'
     url: http://www.gutenberg.org/2009/agents/55208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69305#Rossetti
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69305'
